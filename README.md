@@ -1,5 +1,7 @@
 # Bank-Marketing
-Análise do banco de dados presente no link: <https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank.zip>
+Análise de dados com respeito à campanhas de marketing de um instutição bancária portuguesa.
+
+Banco de dados presente no link: <https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank.zip>
 
 Arquivos inclusos:
 - bank.csv: uma versão reduzida do conjunto de dados;
